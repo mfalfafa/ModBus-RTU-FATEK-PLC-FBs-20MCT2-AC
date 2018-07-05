@@ -1,3 +1,8 @@
+# ModBus RTU Serial Communication
+
+Created by MF Alfafa
+miftahf77@gmail.com
+
 Communication Settings for Ladder Program Downloading
 1. FT230X Basic Uart Driver for FATEK PLC (for USB Serial Converter and USB Serial Port driver)
 2. Download Program (Communication settings) :
